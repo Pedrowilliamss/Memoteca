@@ -1,0 +1,34 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que voce veio",
+      "autoria": "Nay",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Estudando Angular e gostando muito",
+      "autoria": "Dev Alura",
+      "modelo": "modelo2"
+    },
+    {
+      "conteudo": "Esse é apenas um teste",
+      "autoria": "Pedro williams",
+      "modelo": "modelo3",
+      "id": 4
+    },
+    {
+      "conteudo": "ai ai ai",
+      "autoria": "lulul",
+      "modelo": "modelo1",
+      "id": 5
+    },
+    {
+      "conteudo": "Um dia lindo hoje",
+      "autoria": "tiltado",
+      "modelo": "modelo1",
+      "id": 6
+    }
+  ]
+}
